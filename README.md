@@ -16,7 +16,7 @@ What I've learned doing this project
 
 ​
 
-Developer dependencies:
+Developer dependencies: 
 
     "@types/react": "^18.0.22",
     
