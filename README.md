@@ -18,7 +18,7 @@ What I've learned doing this project
 
 Developer dependencies:
 
-​ "@types/react": "^18.0.22",
+​   "@types/react": "^18.0.22",
 
     "@types/react-dom": "^18.0.7",
 
