@@ -10,7 +10,7 @@ What I've learned doing this project
 
 -Usage of the new version of react-router-dom (6.4.2)
 
--Usage of Tailwincss (3.2.1)
+-Usage of Tailwindcss (3.2.1)
 
 -Usage of Vite (3.2.0)
 
